@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="app_text">
+        Here current weather will be displayed for the current location.
+        e.g. London, 22 degrees, sunny
+    </string>
+</resources>
