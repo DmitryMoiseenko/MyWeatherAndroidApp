@@ -1,1 +1,3 @@
 # MyWeatherAndroidApp
+My first Android Weather Xamarin App
+TBD...
